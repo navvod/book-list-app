@@ -14,7 +14,18 @@ In this project, I have showcased my frontend development skills by building a c
 7. **Error Handling**: Implemented error handling to provide meaningful feedback to users, ensuring smooth interactions and improving the overall user experience.
 8. **Git for Version Control**: Managed project development with Git to keep track of changes, handle collaboration, and ensure proper version control through GitHub.
 
+
+## Main Page
 ![image alt](https://github.com/navvod/book-list-app/blob/c93658d949f7cfabae09f4e9a88b9b7cb22d27af/Main%20page%20with%20search%20bar.png)
+
+## Search bar with options
+![image alt](https://github.com/navvod/book-list-app/blob/b4d1bdc4ab53fe84a3fb2d6fb0dff2c5a3ff8da1/Search%20bar%20with%20options.png)
+
+## Search results
+![image alt](https://github.com/navvod/book-list-app/blob/b4d1bdc4ab53fe84a3fb2d6fb0dff2c5a3ff8da1/Search%20results.png)
+
+## Details of a selecteed book
+![image alt](https://github.com/navvod/book-list-app/blob/b4d1bdc4ab53fe84a3fb2d6fb0dff2c5a3ff8da1/Details%20of%20the%20selected%20book.png)
 
 
 # Getting Started with Create React App
