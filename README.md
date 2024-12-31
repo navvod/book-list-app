@@ -24,7 +24,7 @@ In this project, I have showcased my frontend development skills by building a c
 ## Search results
 ![image alt](https://github.com/navvod/book-list-app/blob/b4d1bdc4ab53fe84a3fb2d6fb0dff2c5a3ff8da1/Search%20results.png)
 
-## Details of a selecteed book
+## Details of a selected book
 ![image alt](https://github.com/navvod/book-list-app/blob/b4d1bdc4ab53fe84a3fb2d6fb0dff2c5a3ff8da1/Details%20of%20the%20selected%20book.png)
 
 
