@@ -13,7 +13,7 @@ const HomePage = () => {
   const [searchPerformed, setSearchPerformed] = useState(false); // Track if a search has been made
 
   const fetchBooks = async () => {
-    // const API_KEY = 'AIzaSyAPCHnPP_ITuzH1o8OR42v1AoPtsij-MUI';
+    
     const API_KEY = process.env.REACT_APP_API_KEY;
     const response = await axios.get(
       `https://www.googleapis.com/books/v1/volumes?q=${query}+in${searchType}&maxResults=36&key=${API_KEY}`
