@@ -1,0 +1,30 @@
+/* Navbar styles */
+
+.navbar {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px 20px;
+    background-color: #e0e8f0;
+    border-bottom: 1px solid #ddd;
+  }
+  
+  .navbar-left {
+    display: flex;
+    align-items: center;
+  }
+  
+  .navbar-logo {
+    width: 60px;
+    height: 60px;
+    margin-right: 30px;
+    margin-left: 150px;
+  }
+  
+  .navbar-shop-name {
+    font-size: 1.8rem;
+    font-weight: bold;
+    color: #6253b3;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif, Times, 'Times New Roman', serif;
+  }
+  

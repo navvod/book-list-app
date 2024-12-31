@@ -1,0 +1,40 @@
+
+/* container styles */
+
+.middle-container {
+    height: 60vh;
+    background-image: url('../../Images/back-image.jpg'); 
+    background-size: cover;
+    background-position: top;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    color: #fff;
+    font-family: Arial, sans-serif;
+    background-color: rgba(247, 243, 243, 0.6); 
+    opacity: 0.9;
+  }
+
+  /* text styles */
+  
+  .middle-title {
+    font-size: 3rem;
+    font-weight: bold;
+    margin-bottom: 5px;
+    margin-top: 20%;
+    font-family:  'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif; 
+    text-shadow: 2px;
+  }
+  
+  .middle-paragraph {
+    font-size: 1.5rem;
+    max-width: 600px;
+    line-height: 1.6;
+    margin-left: 20%;
+    color: #e3e9df;
+    margin-top: 10%;
+    
+  }
+  

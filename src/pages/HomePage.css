@@ -1,0 +1,116 @@
+.search-input-container {
+    display: flex;
+    align-items: center;
+    border: 1px solid #ccc; 
+    border-radius: 25px; 
+    overflow: hidden; 
+    background-color: #f9f9f9;
+    margin-top: 20px;
+    width: 30%;
+    justify-content: center;
+    margin-left: 35%;
+   
+  }
+  
+  .search-input-container input {
+    flex: 1;
+    border: none;
+    outline: none;
+    padding: 10px 15px;
+    border-radius: 25px 0 0 25px; 
+    font-size: 18px;
+    background: none; 
+  }
+  
+  .search-input-container button {
+    background-color: #007bff; 
+    border: none;
+    color: white;
+    padding: 10px 15px;
+    cursor: pointer;
+    border-radius: 0 25px 25px 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .search-input-container button i {
+    font-size: 16px;
+  }
+  
+  .search-input-container button:hover {
+    background-color: #0056b3; 
+  }
+  
+  
+  .search-options {
+    display: flex;
+    justify-content: flex-start; 
+    align-items: center; 
+    gap: 1px; 
+    font-size: 40px;
+    font-weight: 100;
+    font-family: 'Courier New', Courier, monospace;
+    
+    margin-top: 20px;
+    width: 30%;
+    justify-content: center;
+    margin-left: 35%;
+    margin-right: 5%;
+  }
+  
+  .search-options label {
+    font-size: 1rem;
+    margin: 0; 
+    padding: 0; 
+  }
+  
+  
+
+  .book-list {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 20px;
+    margin-top: 20px;
+  }
+  
+  .book-item {
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 8px;
+    text-align: center;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .book-item img {
+    max-width: 100%;
+    border-radius: 8px;
+    margin-bottom: 10px;
+  }
+  
+  .book-item h2 {
+    font-size: 1.2rem;
+    font-weight: bold;
+    font-family:  initial;
+    margin-bottom: 10px;
+  }
+  
+  .book-item p {
+    font-size: 1rem;
+    font-family:  monospace;
+    color: #555;
+    margin-bottom: 10px;
+  }
+  
+  .book-item a {
+    color: #007bff;
+    text-decoration: none;
+  }
+  
+  .book-item a:hover {
+    text-decoration: underline;
+  }
+
+  
+  
