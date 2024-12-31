@@ -1,6 +1,33 @@
-<<<<<<< HEAD
 # book-list-app
 =======
+
+## Technical Skills Demonstrated
+
+In this project, I have showcased my frontend development skills by building a clean, interactive, and well-structured web application. Key technical skills demonstrated include:
+
+1. **React.js**: Utilized React to build reusable, modular components that contribute to a maintainable and scalable application.
+2. **Component-Based Architecture**: Organized the application using functional components, which allows for better reusability and separation of concerns within the project.
+3. **Environment Variables**: Used a `.env` file to securely store and manage sensitive information, such as API keys, ensuring proper configuration and security in the development environment.
+4. **CSS for Attractive Design**: Applied CSS to create an aesthetically pleasing design with a focus on user experience. Implemented responsive styling to ensure the app is accessible on various devices and screen sizes.
+5. **Responsive Design**: Employed media queries and fluid layouts to make the application mobile-friendly, ensuring a smooth user experience across different devices.
+6. **Code Quality**: Followed best practices for clean, readable, and maintainable code. Emphasized modularity and separation of concerns, making the codebase easy to navigate and extend.
+7. **Error Handling**: Implemented error handling to provide meaningful feedback to users, ensuring smooth interactions and improving the overall user experience.
+8. **Git for Version Control**: Managed project development with Git to keep track of changes, handle collaboration, and ensure proper version control through GitHub.
+
+
+## Main Page
+![image alt](https://github.com/navvod/book-list-app/blob/c93658d949f7cfabae09f4e9a88b9b7cb22d27af/Main%20page%20with%20search%20bar.png)
+
+## Search bar with options
+![image alt](https://github.com/navvod/book-list-app/blob/b4d1bdc4ab53fe84a3fb2d6fb0dff2c5a3ff8da1/Search%20bar%20with%20options.png)
+
+## Search results
+![image alt](https://github.com/navvod/book-list-app/blob/b4d1bdc4ab53fe84a3fb2d6fb0dff2c5a3ff8da1/Search%20results.png)
+
+## Details of a selected book
+![image alt](https://github.com/navvod/book-list-app/blob/b4d1bdc4ab53fe84a3fb2d6fb0dff2c5a3ff8da1/Details%20of%20the%20selected%20book.png)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
