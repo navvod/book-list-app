@@ -16,7 +16,7 @@ const HomePage = () => {
     
     const API_KEY = process.env.REACT_APP_API_KEY;
     const response = await axios.get(
-      `https://www.googleapis.com/books/v1/volumes?q=${query}+in${searchType}&maxResults=36&key=${API_KEY}`
+      `https://www.googleapis.com/books/v1/volumes?q=${query}+in${searchType}&maxResults=10&key=${API_KEY}`
     );
     setBooks(response.data.items || []);
   };
